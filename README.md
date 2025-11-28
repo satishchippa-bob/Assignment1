@@ -2,4 +2,6 @@
 
 THIS IS ASSIGNMENT FOR TUTEDUDE
 
-![Tutedude Logo]( https://github.com/satishchippa-bob/Assignment1/blob/main/download.jfif)
+![image][def]
+
+[def]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnCwJOYUZktm0d04DiBJRrPUlgU8uOLjfaw&s
