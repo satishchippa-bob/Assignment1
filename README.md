@@ -2,4 +2,4 @@
 
 THIS IS ASSIGNMENT FOR TUTEDUDE
 
-![alt text](https://www.google.com/imgres?q=tutedude%20photo&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Ftest694%2FImages%2Flogo-hm.webp&imgrefurl=https%3A%2F%2Ftutedude.com%2Ftracks%2Fuiuxtrack&docid=xr6krOl3_wB1ZM&tbnid=2V9DWdOLtT_9sM&vet=12ahUKEwiw7LWLlZWRAxUlUGwGHSisBZEQM3oECCEQAA..i&w=409&h=125&hcb=2&ved=2ahUKEwiw7LWLlZWRAxUlUGwGHSisBZEQM3oECCEQAA)
+![alt text](https://www.google.com/search?q=tutedude+photo&sca_esv=1939b7fac6b66ed5&udm=2&biw=1280&bih=593&sxsrf=AE3TifM4Qkn7-f-Wn7o-YHeHeix9niTsKA%3A1764343860867&ei=NMApaYbNNK6ZseMPnI3xgQg&ved=0ahUKEwiGt9qIlZWRAxWuTGwGHZxGPIAQ4dUDCBI&uact=5&oq=tutedude+photo&gs_lp=Egtnd3Mtd2l6LWltZyIOdHV0ZWR1ZGUgcGhvdG8yBRAAGIAEMgQQABgeSPwYUKUDWPIScAJ4AJABAJgB5AGgAcYJqgEFMC42LjG4AQPIAQD4AQGYAgegAuIGwgIHECMYyQIYJ5gDAOIDBRIBMSBAiAYBkgcDMi41oAecCbIHAzAuNbgH2wbCBwUwLjMuNMgHFw&sclient=gws-wiz-img#vhid=akdzJ1dtHDxTMM&vssid=mosaic)
